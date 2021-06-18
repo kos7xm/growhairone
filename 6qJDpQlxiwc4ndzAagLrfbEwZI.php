@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+	
+	<title>Artykuł</title>
+	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<link href="css/style.css" rel='stylesheet' type='text/css' />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Personal Blog Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" 
+	/>
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!----webfonts---->
+		<link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+		<!----//webfonts---->
+		  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<!--end slider -->
+		<!--script-->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<!--/script-->
+<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},900);
+				});
+			});
+</script>
+<!---->
+
+</head>
+<body>
+<!---header---->
+<header>
+
+	<div class="logo">
+		<a href="index.php">ciało</a>
+	</div>
+	<!---start-top-nav---->
+	<div class="top-menu">
+		<div class="search">
+
+			<span class="menu"> </span>
+			<ul>
+				<li ><a href="index.php">Strona główna</a></li>
+				<li class="active"><a href="blog.php">Artykuły</a></li>
+				<li><a href="contact.php">Kontakty</a></li>
+				<li><a href="terms.php">Warunki i postanowienia</a></li>
+				<li><a href="policy.php">Polityka prywatności</a></li>
+				<div class="clearfix"></div>
+			</ul>
+		</div>
+		<div class="clearfix"></div>
+		<script>
+			$("span.menu").click(function () {
+				$(".top-menu ul").slideToggle("slow", function () {
+				});
+			});
+		</script>
+		<!---//End-top-nav---->
+	</div>
+</header>
+<!--/header-->
+<div class="single">
+	 <div class="container">
+		  <div class="col-md-8 single-main">				 
+			  <div class="single-grid">
+					<img src="./assets/images/jonny-swales-tz8qmb5gfj0-unsplash.jpg" alt=""/>
+				  <h2>5 nawilżających maseczek do skóry,</h2>
+					<p> <strong>5 nawilżających maseczek do skóry,</strong> nawilżenie skóry, było i będzie głównym obowiązkiem każdej kobiety. Wynik niedostatecznego nawilżenia organizmu, a nie tylko na krótką metę, ale w dłuższej, nieuchronnie, nieuchronnie doprowadzi do pogorszenia wyglądu. Przyczyną nadmiernego pocenia się jest zazwyczaj odwodnienie skóry.Mimo, że skóra twarzy i ciała najbardziej narażona na działanie powietrza, ciepła i słońca, niedostateczne nawodnienie organizmu nie można ignorować. Nawodnienie organizmu w upał jest warunkiem koniecznym dla prawidłowego funkcjonowania całego organizmu. Jeśli skóra nie jest nawilżona, zgodnie z oczekiwaniami, mogą być widoczne oznaki suchej, dryablogo wyglądu. Jest to związane z tym, że gdy organizm nie uvlaghnen, jego komórki stają się bardziej aktywne, a skóra staje się sucha, martwe i martwe.Trzeba powiedzieć, że kiedy skóra niedostatecznie nawilżona, pojawiają się widoczne objawy - łzawienie, suchość, podrażnienie. Dlatego regularne nawilżanie ma duże znaczenie. Krem do twarzy, balsam do masażu z solą morską lub wodą morską - oto niektóre z kosmetyków, które kobiety używają do pielęgnacji swojej skóry.Oczywiście, nawilżenie skóry ciało automatycznie nie prowadzi do pięknego wyglądu. Złe nawilżenie prowadzi do tego, że piękna twarz nie będzie wyglądać tak, prawdopodobnie będzie suche, to będzie suche, to prawdopodobnie będzie martwe. Dlatego tak ważne jest, aby regularnie nawilżać organizm. Wystarczy kilka sprayu, aby zmyć z ciała wszystkie nagromadzone płyny. A dla ludzi przyzwyczajonych regularnie stosować różne maski przy problemach ze skórą, to będzie o wiele bardziej efektywne. Ważne jest, aby pamiętać, że nawilżanie nie wystarczy do oczyszczenia skóry, należy go leczyć. A to procedurę należy przeprowadzać co najmniej miesiąca, oprócz zwykłego czyszczenia skóry kwasem solnym.5 najlepszych środków do nawilżania rąk.Z tego powodu, że skóra twarzy jest bardzo wrażliwa, ona nie toleruje różne zabiegi, nawet naturalne. Dlatego po nałożeniu jakiegokolwiek kosmetyku, należy wmasować go w skórę świateł kremem. Odnosi się to szczególnie do kremów, szminek i kosmetyki do oczu. Po pierwszym zastosowaniu skóra twarzy otwiera swoje pory, co prowadzi do pojawienia się zmarszczek. W konsekwencji, to tak ważne jest, aby nawilżać skórę co najmniej dwa razy dziennie. Należy również używać szminki z wilgocią. Jeśli brakuje ci szminek, najpierw zwilż je.5 najlepszych szminek dla suchych ust.Jeśli masz tendencję do zaczerwienień, to spróbuj taką maskę: zrób skoncentrowany ekstrakt z łusek rozmarynu. To</p>
+			  </div>
+
+			  <div class="content-form">
+					 <h3>Zostaw komentarz</h3>
+					<form action="thanks.php">
+						<input type="text" placeholder="Nazwa" required/>
+						<input type="text" placeholder="Email" required/>
+						<input type="text" placeholder="Numer telefonu" required/>
+						<textarea ></textarea>
+						<label class="terms-field">
+							<input type="checkbox" name="terms" value="check" required=""/>
+							<a href="policy.php" target="_blank">
+								Przeczytałem i zgadzam się z warunkami umowy
+							</a>
+						</label>
+						<input type="submit" value="Wysłać"/>
+				   </form>
+						 </div>
+		  </div>
+
+		  </div>
+	  </div>
+</div>
+<footer>
+
+	<div class="container">
+		<div class="footer">
+			<p>
+				Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+				All rights reserved</p>
+		</div>
+	</div>
+</footer>
+
+<div class='cookie-banner'>
+	<p>
+		Strona wykorzystuje pliki cookie. Pozwalają one poznać ciebie i otrzymywać informacje o swoim doświadczeniu użytkownika.Kontynuując przeglądanie strony, wyrażam zgodę na korzystanie z plików cookie przez właściciela serwisu zgodnie z  <a target="_blank" href="https://en.wikipedia.org/wiki/HTTP_cookie">Polityką cookie</a>
+	</p>
+	<button class='close-cookie'>&times;</button>
+</div>
+</body>
+
+<script>
+	window.onload = function() {
+		$('.close-cookie').click(function () {
+			$('.cookie-banner').fadeOut();
+		})
+	}
+</script>
+<script>
+	let elems = document.querySelectorAll('.server-name');
+	elems.forEach((elem) => {
+		elem.innerHTML = window.location.hostname
+	})
+</script>

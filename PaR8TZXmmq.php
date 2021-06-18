@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+	
+	<title>Artykuł</title>
+	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<link href="css/style.css" rel='stylesheet' type='text/css' />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Personal Blog Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" 
+	/>
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!----webfonts---->
+		<link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+		<!----//webfonts---->
+		  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<!--end slider -->
+		<!--script-->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<!--/script-->
+<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},900);
+				});
+			});
+</script>
+<!---->
+
+</head>
+<body>
+<!---header---->
+<header>
+
+	<div class="logo">
+		<a href="index.php">obolystitelynosty</a>
+	</div>
+	<!---start-top-nav---->
+	<div class="top-menu">
+		<div class="search">
+
+			<span class="menu"> </span>
+			<ul>
+				<li ><a href="index.php">Strona główna</a></li>
+				<li class="active"><a href="blog.php">Artykuły</a></li>
+				<li><a href="contact.php">Kontakty</a></li>
+				<li><a href="terms.php">Warunki i postanowienia</a></li>
+				<li><a href="policy.php">Polityka prywatności</a></li>
+				<div class="clearfix"></div>
+			</ul>
+		</div>
+		<div class="clearfix"></div>
+		<script>
+			$("span.menu").click(function () {
+				$(".top-menu ul").slideToggle("slow", function () {
+				});
+			});
+		</script>
+		<!---//End-top-nav---->
+	</div>
+</header>
+<!--/header-->
+<div class="single">
+	 <div class="container">
+		  <div class="col-md-8 single-main">				 
+			  <div class="single-grid">
+					<img src="./assets/images/blubel-ffmkd8dm7zw-unsplash.jpg" alt=""/>
+				  <h2>9 właściwości kardamonu</h2>
+					<p> <strong>9 właściwości kardamonu</strong> kardamon - wspaniała przyprawa z niesamowitym smakiem i dużą korzyścią dla zdrowia. Jest on powszechnie stosowany w kuchni indyjskiej i medycynie. Dodaje się go do wielu różnych potraw, od przystawek do słodyczy. W tym sensie, kardamon jest podobny przyprawy, które ma szereg przydatnych właściwości. Przede wszystkim, kardamon to przyprawa, która zawiera wiele składników odżywczych. On ma wiele leczniczych i właściwości przeciwzapalne, dlatego dodaje się go w różnego rodzaju dania. Nie jest to łatwe istnieje, trzeba być ostrożnym z kaloriami, ale jeśli celem jest, aby uzyskać gwar, to jest to to idealny dodatek do twojego menu. Do czego kardamon cenny?Poprawia trawienie.Kardamon oczyszcza żołądek i jelita, oczyszczając go z toksyn i patogenów. Działa on również jako środek moczopędny, usuwając nadmiar płynu z organizmu. I to jest bardzo ważne w czasie ciąży. Jak dobry środek moczopędny, kardamon oczyszcza układ moczowy, usuwając nadmiar płynów i sodu z organizmu. Jest również przydatna do picia w ciągu dnia do retencji płynów.Jakie są korzyści napój z imbiru i kurkumy?Leczy jamy ustnej.Jak już wspomniano powyżej, kardamon doskonale pomaga przy nieprzyjemnego zapachu z ust. To jeden z najlepszych naturalnych antybiotyków. Regularne stosowanie przypraw w jamie ustnej pomaga skutecznie zwalczać infekcje bakteryjne, wirusowe i grzybicze, szczególnie przy egzemie. Co dokładnie działa szkodliwie po wyprysk?Niewłaściwe stosowanie antybiotyków.W leczeniu ostrych i ciężkich przypadków kardamon przydatne, ale w mniej poważnych przypadkach może spowodować poważne szkody dla zdrowia jamy ustnej. Z powodu dużej ilości szkodliwych substancji, które są uwalniane podczas leczenia, kardamon rozprzestrzenia się po całym organizmie, powodując stany zapalne i problemy z jedzeniem. Dlatego nie zaleca się go używać do płyn do płukania jamy ustnej. Lepiej dać pierwszeństwo naturalny jogurt lub tvorogu.Niż pomocny miód Manuka?Daje nam energię.Jak już wspomniano powyżej, kardamon-to wspaniała przyprawa, którą można wypić, aby podnieść nastrój. Jest bogaty w olejki eteryczne i witaminy, minerały i aminokwasy. Regularne jego stosowanie to narzędzie nie tylko oczyszcza organizm z toksyn, ale i poprawia jej metabolizm i układ odpornościowy. Co dokładnie jest szkodliwe dla egzemy?Niewłaściwe korzystanie z kosmetyków.Warto pamiętać, że kosmetyki powinny być dobrej jakości. To jest bardzo przydatna w różne oleje i różne Marek. Zbyt ciepła lub zbyt zimna skóra, nie próbuje, może potencjalnie mieć negatywny wpływ na skórę. To samo tyczy się włosów, lepiej trzymać je dłużej lub krócej. Najważniejsze jest to, aby wszystkie produkty standardowe. Ten artykuł ma wyłącznie charakter INFORMACYJNY. Przed użyciem</p>
+			  </div>
+
+			  <div class="content-form">
+					 <h3>Zostaw komentarz</h3>
+					<form action="thanks.php">
+						<input type="text" placeholder="Nazwa" required/>
+						<input type="text" placeholder="Email" required/>
+						<input type="text" placeholder="Numer telefonu" required/>
+						<textarea ></textarea>
+						<label class="terms-field">
+							<input type="checkbox" name="terms" value="check" required=""/>
+							<a href="policy.php" target="_blank">
+								Przeczytałem i zgadzam się z warunkami umowy
+							</a>
+						</label>
+						<input type="submit" value="Wysłać"/>
+				   </form>
+						 </div>
+		  </div>
+
+		  </div>
+	  </div>
+</div>
+<footer>
+
+	<div class="container">
+		<div class="footer">
+			<p>
+				Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+				All rights reserved</p>
+		</div>
+	</div>
+</footer>
+
+<div class='cookie-banner'>
+	<p>
+		Strona wykorzystuje pliki cookie. Pozwalają one poznać ciebie i otrzymywać informacje o swoim doświadczeniu użytkownika.Kontynuując przeglądanie strony, wyrażam zgodę na korzystanie z plików cookie przez właściciela serwisu zgodnie z  <a target="_blank" href="https://en.wikipedia.org/wiki/HTTP_cookie">Polityką cookie</a>
+	</p>
+	<button class='close-cookie'>&times;</button>
+</div>
+</body>
+
+<script>
+	window.onload = function() {
+		$('.close-cookie').click(function () {
+			$('.cookie-banner').fadeOut();
+		})
+	}
+</script>
+<script>
+	let elems = document.querySelectorAll('.server-name');
+	elems.forEach((elem) => {
+		elem.innerHTML = window.location.hostname
+	})
+</script>
